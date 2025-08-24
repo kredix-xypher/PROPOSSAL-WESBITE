@@ -1,7 +1,6 @@
 # PROPOSSAL-WESBITE
 This is a romantic interactive webpage created with love and hope.
 
-````markdown
 # 💖 Proposal Website
 
 This is a romantic interactive **proposal website** built with **HTML, CSS, and JavaScript (Three.js + animations)**.  
