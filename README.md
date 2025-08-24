@@ -32,14 +32,13 @@ Because even if I couldn’t keep mine, I hope you can create a memory that last
 - 📜 Proposal messages that appear one by one.  
 - 🔘 Smooth navigation & progress bar.
 
----
 
 ## 🚀 Getting Started
 
 1. Clone this repo:
    ```bash
    git clone https://github.com/kredix-xypher/PROPOSSAL-WESBITE.git
-````
+
 
 2. Open `index.html` in your browser.
 3. Customize the text and music if you like.
